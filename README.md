@@ -15,6 +15,6 @@
 
 [Резюме на hh.ru](https://sochi.hh.ru/resume/e397e557ff0bd03c5a0039ed1f316837364546)
 
-##Контакты для связи:
+# Контакты для связи:
 - Telegram: [LucasLee1303](https://t.me/LucasLee1303)
 - E-mail: lucaslee13032001@gmail.com
